@@ -1,0 +1,9 @@
+torch==1.11.0
+sklearn
+pandas
+numpy
+transformers==4.20.1
+pickle
+fuzzywuzzy==0.18.0
+gdown==4.5.1
+
